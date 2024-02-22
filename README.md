@@ -29,9 +29,15 @@ Financial Analysis: Collecting financial data, stock prices, and market trends f
 Academic Research: Gathering data for research purposes, such as collecting scientific papers or social media data.
 
 Job Hunting: Scraping job postings from job boards and career websites.
-Popular Python Packages for Web Scraping
+
+**Popular Python Packages for Web Scraping**
+
 Beautiful Soup: A Python library for parsing HTML and XML documents, making it easy to extract data.
+
 Scrapy: A powerful web crawling framework for extracting data from websites.
+
 Requests: A simple HTTP library for making requests and retrieving HTML content from web pages.
+
 Selenium: A tool primarily used for web browser automation but can also be used for web scraping dynamic content.
+
 Pandas: While not specifically for web scraping, Pandas can be useful for cleaning and manipulating scraped data.
